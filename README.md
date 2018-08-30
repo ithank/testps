@@ -9,9 +9,10 @@ From here, you can choose either of the following
 2. Change to the directory where you unzipped this repo
 3. Run the 'install.cmd' file.
 
-- or -
+Or
+
 1. Change to the directory where you unzipped this repo in Windows Explorer
 2. Right-click the 'install.cmd' file and choose 'Run as administrator'
 3. Select 'Run' from 'SmartScreen dialog', if prompted
-4. Click 'Yes' in the UAC dialog to allow the Command Processor to run as adminsitrator
+4. Click 'Yes' in the UAC dialog to allow the Command Processor to run as adminsitrator, if prompted
 
