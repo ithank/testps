@@ -13,7 +13,7 @@ REM touch sqlxml.msi.log
 REM msiexec.exe /i sqlxml.msi /QN /L*V sqlxml.msi.log
 
 
-choco install --execution-timeout=7200 -y %DIR%packages.config
+choco install --execution-timeout=10800 -y %DIR%packages.config
 
 echo.
 echo.
