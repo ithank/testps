@@ -1,3 +1,8 @@
+REM ********************************************************
+REM   This script may be of limited use as Administrator
+REM   access to the computer is required
+REM ********************************************************
+
 @echo off
 SET DIR=%~dp0%
 
