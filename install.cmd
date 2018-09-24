@@ -1,3 +1,8 @@
+REM ********************************************************
+REM    This script must be executed from an 
+REM    Administrative Command Prompt
+REM ********************************************************
+
 @echo off
 SET DIR=%~dp0%
 
