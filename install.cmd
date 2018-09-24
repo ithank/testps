@@ -1,9 +1,9 @@
+@echo off
 REM ********************************************************
 REM    This script must be executed from an 
 REM    Administrative Command Prompt
 REM ********************************************************
 
-@echo off
 SET DIR=%~dp0%
 
 %systemroot%\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "((new-object net.webclient).DownloadFile('https://chocolatey.org/install.ps1','install.ps1'))"
